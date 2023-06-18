@@ -31,7 +31,7 @@ transkey = "trnsl.1.1.20190224T015610Z.47h8eba1d2c35f6g.59a2b3030eaae8611751e6a6
 ttskey = "4bcd3fgh-1jkl-mn0p-qr5t-uvwxyz123456"
 
 # Telegram Bot API Token (örnek: 123456789:aBCdeFGHiJKLmn_pQrsTUv128qKUm9yGlNBg)
-TOKEN = "5964439112:AAFHqvBbpyR2sx24MU1kpecBpnJvqFa7jmM"
+TOKEN = "6035818371:AAETwR7e5PvTztpp21JVuFgvrtZnMFeXJeE"
 
 def start(bot, update):
     update.message.reply_text('Merhaba!')
